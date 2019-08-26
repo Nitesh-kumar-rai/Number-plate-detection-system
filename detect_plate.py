@@ -4,7 +4,7 @@ import numpy as np
 from skimage import io
 import pickle
 #Write your image diectory in imread function
-img=cv2.imread('crysta.jpg')
+img=cv2.imread('suzuki.jpg')
 
 gray=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 
