@@ -1,4 +1,4 @@
-# tcs_humain
+# Number plate detection system
 
 1-Write your image directory at line number 7 in detect_plate.py
 
