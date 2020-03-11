@@ -10,4 +10,4 @@
   recognise the letters in number plate image.
 
 5-The file train_model.py is used for training the model with letters and 
-  dumping the trained model in lr_model.pickle.
+  dumping the trained model in lr_model.pickle....
